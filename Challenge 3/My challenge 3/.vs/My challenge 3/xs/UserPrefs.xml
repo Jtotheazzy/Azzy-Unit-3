@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{28C90E8D-F9ED-B082-81DF-AA2991DD44CD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 3/Scripts/MoveLeftX.cs">
+    <Files>
+      <File FileName="Assets/Challenge 3/Scripts/MoveLeftX.cs" Line="27" Column="73" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9285173e-002a-46c9-b4e2-cfec53c14901" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
